@@ -63,9 +63,9 @@ body {
 	--color-title: #fff;
 	font-family: verdana, sans-serif;
 	--font-title: inherit;
-	--font-weight-title: 100;
-	font-size: 1.15rem;
-	--imgwidthmax: 520px;
+	--font-weight-title: 150;
+	font-size: 0.95rem;
+	--imgwidthmax: 700px;
 }
 
 .demo-5 {

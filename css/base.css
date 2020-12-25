@@ -10,10 +10,10 @@
 
 body {
 	margin: 0;
-	--color-text: #ffffff;
-	--color-bg: #000000;
-	--color-link: #222222;
-	--color-link-hover: #ffffff;
+	--color-text: #fff;
+	--color-bg: #000;
+	--color-link: #222;
+	--color-link-hover: #fff;
 	--aspect-ratio: 1/1.5;
 	--imgwidthmax: 500px;
 	--size-title: 10rem;
@@ -26,17 +26,72 @@ body {
 	-moz-osx-font-smoothing: grayscale;
 }
 
+.demo-1 {
+	--color-text: #fff;
+	--color-bg: #000;
+	--color-link-hover: #222;
+	--aspect-ratio: 32/17;
+	font-size: 1.25rem;
+	font-family: ivymode, sans-serif;
+	--size-title: 15vw;
+}
+
+.demo-2 {
+	--blendmode-title: difference;
+	--size-title: 12vw;
+}
+
+.demo-3 {
+	--color-text: #fff;
+	--color-bg: #000;
+	--color-link: #222;
+	--color-link-hover: #fff;
+	font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+	font-size: 1rem;
+	--imgwidthmax: 400px;
+	--color-description: #fff;
+	--font-title: ivymode;
+	--size-title: 9vw;
+	--imgwidthmax: 600px;
+}
+
 .demo-4 {
-	--color-text: #ffffff;
-	--color-bg: #000000;
-	--color-link: #222222;
-	--color-link-hover: #ffffff;
-	--color-title: #ffffff;
+	--color-text: #fff;
+	--color-bg: #000;
+	--color-link: #222;
+	--color-link-hover: #fff;
+	--color-title: #fff;
 	font-family: collier, sans-serif;
 	--font-title: inherit;
 	--font-weight-title: 100;
 	font-size: 1.15rem;
 	--imgwidthmax: 520px;
+}
+
+.demo-5 {
+	--color-text: #fff;
+    --color-bg: #000000;
+    --color-link: #222;
+    --color-link-hover: #fff;
+    --color-title: #fff;
+	font-family: input-mono, monospace;
+	--font-title: inherit;
+	font-size: 1.15rem;
+	--aspect-ratio: 1/1.5;
+	--font-weight-title: 800;
+}
+
+.demo-6 {
+	--color-text: #fff;
+	--color-bg: #000;
+	--color-link: #222;
+	--color-link-hover: #fff;
+	--color-title: #fff;
+	font-family: ivymode, sans-serif;
+	--font-title: inherit;
+	font-size: 1.15rem;
+	--aspect-ratio: 1/1.5;
+	--imgwidthmax: 505px;
 }
 
 /* Page Loader */

@@ -61,7 +61,7 @@ body {
 	--color-link: #222;
 	--color-link-hover: #fff;
 	--color-title: #fff;
-	font-family: collier, sans-serif;
+	font-family: verdana, sans-serif;
 	--font-title: inherit;
 	--font-weight-title: 100;
 	font-size: 1.15rem;
@@ -178,7 +178,7 @@ a:focus {
 	left: 0;
 	bottom: 0;
 	height: 5rem;
-	width: 1px;
+	width: 0px;
 }
 
 .meta {

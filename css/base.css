@@ -16,12 +16,12 @@ body {
 	--color-link-hover: #fff;
 	--aspect-ratio: 1/1.5;
 	--imgwidthmax: 2100px;
-	--size-title: 10rem;
+	--size-title: 5rem;
 	--font-weight-title: 400;
 	color: var(--color-text);
 	background-color: var(--color-bg);
 	font-family: turquoise, serif;
-	font-size: 0.25rem;
+	font-size: 1.15rem;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
@@ -64,7 +64,7 @@ body {
 	font-family: verdana, sans-serif;
 	--font-title: inherit;
 	--font-weight-title: 100;
-	font-size: 0.25rem;
+	font-size: 0.95rem;
 	--imgwidthmax: 2100px;
 }
 

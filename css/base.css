@@ -16,12 +16,12 @@ body {
 	--color-link-hover: #222222;
 	--aspect-ratio: 1/1.5;
 	--imgwidthmax: 2100px;
-	--size-title: 5rem;
+	--size-title: 40px;
 	--font-weight-title: 900;
 	color: var(--color-text);
 	background-color: var(--color-bg);
 	font-family: turquoise, serif;
-	font-size: 1.15rem;
+	font-size: 40px;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }

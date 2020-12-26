@@ -13,7 +13,7 @@ body {
 	--color-text: #fff;
 	--color-bg: #000;
 	--color-link: #fff;
-	--color-link-hover: #EAEAEA;
+	--color-link-hover: #222222;
 	--aspect-ratio: 1/1.5;
 	--imgwidthmax: 2100px;
 	--size-title: 5rem;
@@ -59,7 +59,7 @@ body {
 	--color-text: #fff;
 	--color-bg: #000;
 	--color-link: #fff;
-	--color-link-hover: #EAEAEA;
+	--color-link-hover: #222222;
 	--color-title: #fff;
 	font-family: verdana, sans-serif;
 	--font-title: inherit;

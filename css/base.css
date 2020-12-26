@@ -65,7 +65,7 @@ body {
 	--font-title: inherit;
 	--font-weight-title: 900;
 	font-size: 0.55rem;
-	--imgwidthmax: 2100px;
+	--imgwidthmax: 1400px;
 }
 
 .demo-5 {
@@ -201,7 +201,7 @@ a:focus {
 }
 
 .meta__links a {
-	margin: 0 1.5rem 0 0;
+	margin: 0 0.5rem 0 0;
 }
 
 .meta__demos {

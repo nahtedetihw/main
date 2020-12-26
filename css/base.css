@@ -372,7 +372,7 @@ a:focus {
 	padding: 0;
 	z-index: 10;
 	grid-area: 1 / 1 / 2 / 3;
-	width: 100%;
+	width: 70%;
 	text-align: center;
 }
 

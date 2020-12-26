@@ -12,12 +12,12 @@ body {
 	margin: 0;
 	--color-text: #fff;
 	--color-bg: #000;
-	--color-link: #222;
-	--color-link-hover: #fff;
+	--color-link: #fff;
+	--color-link-hover: #f2f2f2;
 	--aspect-ratio: 1/1.5;
 	--imgwidthmax: 2100px;
 	--size-title: 5rem;
-	--font-weight-title: 400;
+	--font-weight-title: 900;
 	color: var(--color-text);
 	background-color: var(--color-bg);
 	font-family: turquoise, serif;
@@ -44,8 +44,8 @@ body {
 .demo-3 {
 	--color-text: #fff;
 	--color-bg: #000;
-	--color-link: #222;
-	--color-link-hover: #fff;
+	--color-link: #fff;
+	--color-link-hover: #f2f2f2;
 	font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
 	font-size: 1rem;
 	--imgwidthmax: 400px;
@@ -58,12 +58,12 @@ body {
 .demo-4 {
 	--color-text: #fff;
 	--color-bg: #000;
-	--color-link: #222;
-	--color-link-hover: #fff;
+	--color-link: #fff;
+	--color-link-hover: #f2f2f2;
 	--color-title: #fff;
 	font-family: verdana, sans-serif;
 	--font-title: inherit;
-	--font-weight-title: 100;
+	--font-weight-title: 900;
 	font-size: 0.95rem;
 	--imgwidthmax: 2100px;
 }
